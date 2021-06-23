@@ -1,0 +1,13 @@
+
+/build/
+/dist/
+/.idea/
+/__pycache__/
+*.zip
+*.exe
+*.spec
+
+/_database/*
+/_manage_state/*
+/_mypackages/*
+!/_mypackages/util
